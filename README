@@ -1,0 +1,8 @@
+Name: Lichao Xu
+
+Description: This project aims to learn 
+	an interacting particle or a flocking algorithm.
+	Simply make a simulation involving particles, following
+	a set of rlues that produce interesting behavior.
+	Each particle is independent, making decisions purely on the 
+	surrounding particles and header particle.
